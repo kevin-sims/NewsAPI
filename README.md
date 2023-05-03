@@ -58,7 +58,9 @@ npm install
 
 3. Run the server:
 
-``npm start``
+```
+npm start
+```
 
 
 The server will start on port 3000 by default, or on the port specified in the `PORT` environment variable.
